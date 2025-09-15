@@ -26,6 +26,7 @@ Polly is doing its magic and as a result we have an output mp3 file in our S3 Bu
 <br>
 <br>
 <p><b>Steps</b></p>
+
 ![Image Description](Architecture/Steps.jpeg)
 
 
